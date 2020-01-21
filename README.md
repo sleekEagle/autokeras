@@ -4,7 +4,7 @@ This tests the auto ML library autokeras.
 Dataset used : Berlin emoDB vocal emotion recognition database
 
 ## cnn_method.py 
-uses a modified version of a CNN form paper "Ealuating  deep  learning
+uses a modified version of a CNN form paper "Evaluating  deep  learning
 architectures for Speech Emotion Recognition” by Fayek et.al. 
 It trains and validates the model. It could achieve an accuracy of 0.62
 
