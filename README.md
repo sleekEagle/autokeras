@@ -12,7 +12,7 @@ It trains and validates the model. It could achieve an accuracy of 0.62
 use auto ML package autokeras to build a CNN architecture which is suitable for the given data. 
 After fully training the resultant model I could only achieve an accuracy of 0.53
 
-##My article on autoML focusing on autokeras :
+## My article on autoML focusing on autokeras :
 [https://sleekeagle.github.io/2019/12/01/auto_ML.html]
 
 
